@@ -41,9 +41,16 @@ I'm **YASIR KHAN**, a passionate Unreal Engine specialist focused on creating im
 🔹 **Paranoid Look-Back System** – Dynamic player animations & camera effects in horror games  
 🔹 **Multiplayer FPS Module** – Custom-built shooting mechanics & networking in UE5  
 
-📌 **Explore More:** [View My Projects](https://github.com/UmarRazaq?tab=repositories)
+📌 **Explore More:** [View My Projects](https://github.com/yasir-khan60?tab=repositories)
 
 ---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
 
 ### 📫 Let's Connect!
 
