@@ -55,8 +55,11 @@ I'm **YASIR KHAN**, a passionate Unreal Engine specialist focused on creating im
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linktr.ee/urumarrazzaq"><img src="https://img.shields.io/badge/Linktree-Umar%20Razaq-lightgreen?logo=linktree&style=for-the-badge"/></a>
+  <a href="https://www.artstation.com/yasirkhan60">
+    <img src="https://img.shields.io/badge/ArtStation-Yasir%20Khan-blue?logo=artstation&style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
